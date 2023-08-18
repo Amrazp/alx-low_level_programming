@@ -10,6 +10,6 @@
 
 void print_numbers(void)
 {
-	_putchar("123456789");
+	_putchar("0123456789");
 	_putchar("\n");
 }
